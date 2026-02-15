@@ -1,0 +1,2 @@
+в этой директории я повторяю код по книге "Фласк - мега туториал"
+(https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world), с моими комментариями
