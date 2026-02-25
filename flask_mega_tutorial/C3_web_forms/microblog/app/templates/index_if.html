@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- далее представлен условный блок  -->
+    {% if title %}  <!-- если в функции render_template будет определен параметр title, то шаблон отобразит заданный в параметре заголовок -->
+      <title>{{ title }} - Microblog</title>
+    {% else %}  <!-- если в функции render_template не будет определен параметр title, то шаблон присвоит странице прописанный в шаблоне заголовок -->
+      <title>Welcome to Incognito!</title>
+    {% endif %}  <!-- конец условного блока -->
+  </head>
+  <body>
+    <h1>Hello, {{ user.username }}!</h1>
+  </body>
+</html>
