@@ -5,8 +5,9 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/flask_venv" />
       <excludeFolder url="file://$MODULE_DIR$/flask_mega_tutorial/C1_first_app/microblog/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/flask_mega_tutorial/C8_followers/microblog/c8venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.12 virtualenv at /media/joma/Data/Skillbox/projects/Flask/flask_venv" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.12 virtualenv at /media/joma/Data/Skillbox/projects/Flask/flask_mega_tutorial/C8_followers/microblog/c8venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
