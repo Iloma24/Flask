@@ -1,4 +1,4 @@
-#!/media/joma/Data/Skillbox/projects/Flask/flask_venv/bin/python3
+#!/media/joma/Data/Skillbox/projects/Flask/flask_venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
