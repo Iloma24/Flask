@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/flask_mega_tutorial/C15_better_application_structure/microblog" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flask_mega_tutorial/C16_full_text_search/microblog" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/flask_venv" />
       <excludeFolder url="file://$MODULE_DIR$/flask_mega_tutorial/C1_first_app/microblog/venv" />

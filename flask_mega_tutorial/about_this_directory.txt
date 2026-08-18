@@ -1,3 +1,4 @@
-в этой директории я повторяю код по книге "Фласк - мега туториал"
+в этой директории я повторяю код по книге "Фласк - мега туториал" с моими комментариями и добавлением пояснений с
+использованием ИИ.
 (https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world), с моими комментариями
 https://github.com/miguelgrinberg/microblog
